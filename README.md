@@ -1,7 +1,7 @@
 # 📚 RocketNotes 
 
-<p>Esse é o projeto de um ********** na qual é utilizado as linguagens de programação mencionadas<br>
-abaixo para fins de estudo da linguagem onde o sistema é exclusivamente Front-End e faz funções basicas referente a uma **********.<br> </p>
+<p>Esse é o projeto de um sistema para gerenciar notas, foi feito todo o Front-End na qual é utilizado a biblioteca react onde foi feita as telas de Login, Cadastro, Home, Profile, NewNota e Details.<br>
+Esse projeto foi realizado para fins de estudo durante a realização do curso explorer de FrontEnd da Rocketseat onde no mesmo o modulo ensina exclusivamente linguagem react.<br> </p>
 
 # 🛠 TECNOLOGIAS
 

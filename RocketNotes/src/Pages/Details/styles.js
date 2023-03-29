@@ -26,7 +26,7 @@ export const Links = styled.ul`
     }
 
     a {
-        color: '${({theme} ) => theme.COLORS.WHITE};'
+        color: ${({theme} ) => theme.COLORS.WHITE};
     }
 `;
 
